@@ -22,3 +22,7 @@ Continuer à progresser en Git et GitHub afin de documenter et publier mes futur
 ## Ma première expérience
 
 Premier dépôt créé à la maison.
+
+## Prochaine étape
+
+Créer et documenter mes premiers laboratoires réseau avec Cisco Packet Tracer.
